@@ -31,5 +31,5 @@ python3 main.py
 ```
 ## Authors
 
-- [@octokatherine](https://www.github.com/octokatherine)
+- [@Cyrilnkl](https://www.github.com/Cyrilnkl)
 
